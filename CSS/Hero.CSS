@@ -1,0 +1,47 @@
+body{
+	margin: 0px 80px 0px 80px ;	
+}
+
+header{
+	background-color: orange;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+h2{
+	font-family: 'Teko', sans-serif;
+	font-size: 50px;
+}
+
+header h1{
+	color: black;
+	font-size: 40px;
+}
+
+header img{
+	border-style: solid;
+	border-width: 20px;
+	background-color: tan;
+	margin-top: 30px;
+}
+
+main h2{
+	max-width: 800px;
+	text-align: center;
+	margin: 0 auto;
+	border: ;
+}
+
+img src="img/IchigoKurosakiheader2.jpeg"{
+	float: right;
+	
+}
+
+
+
+
+
+
